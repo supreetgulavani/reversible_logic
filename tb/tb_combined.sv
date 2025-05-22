@@ -1,5 +1,5 @@
 /////////////////////////////////////////////////////////////////////
-//  Filename: tb_peres_gate.sv
+//  Filename: tb_combined.sv
 //  
 //  A Testbench for an Implementation of Peres Gate in SystemVerilog
 //  
