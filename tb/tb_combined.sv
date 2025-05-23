@@ -4,7 +4,7 @@
 //  A Testbench for an Implementation of Peres Gate in SystemVerilog
 //  
 //  Author: Supreet Gulavani
-//  05/23/2025
+//  05/22/2025
 /////////////////////////////////////////////////////////////////////
 
 `define TB_FREDKIN

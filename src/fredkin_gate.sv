@@ -4,7 +4,7 @@
 //  An Implementation of Fredkin Gate in SystemVerilog
 //  
 //  Author: Supreet Gulavani
-//  05/23/2025
+//  05/22/2025
 /////////////////////////////////////////////////////////////////////
 
 module fredkin_gate(A, B, C, P, Q, R);

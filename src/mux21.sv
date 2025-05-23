@@ -4,7 +4,7 @@
 //  An Implementation of a 2:1 MUX using Fredkin Gate in SystemVerilog
 //  
 //  Author: Supreet Gulavani
-//  05/23/2025
+//  05/22/2025
 /////////////////////////////////////////////////////////////////////
 
 module mux21(sel, ip_1, ip_2, mux_out, garbage_1, garbage_2);
